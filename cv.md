@@ -1,6 +1,6 @@
 <img src="assets/photo.jpg" alt="My photo" width="80"  height="80" style="border-radius: 100%;">
 
-# <p style="color: pink;"> Arina Vydumkina </p>
+# Arina Vydumkina
 
 **Intern Frontend Developer**
 
